@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=agnesk92&label=Views&color=blue&style=for-the-badge)
-
 ### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=agnesk92&label=Views&color=blue&style=for-the-badge)
 
 <!--
 **agnesk92/agnesk92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
