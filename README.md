@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=agnesk92&label=Views&color=blue&style=for-the-badge)
 
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agnesk92&repo=NeuroTribes)](https://github.com/agnesk92/NeuroTribes)-->
+
 <!--
 **agnesk92/agnesk92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=agnesk92&theme=onedark&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesk92&theme=onedark&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnesk92&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="github stats" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesk92&show_icons=true&theme=onedark&langs_count=10&layout=compact&hide=css&cache_seconds=86400" alt="top languages" />
+  <img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=agnesk92&theme=onedark" alt="streaks" />
+</div>
