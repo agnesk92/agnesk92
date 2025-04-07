@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agnesk92&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="github stats" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesk92&show_icons=true&theme=onedark&langs_count=10&layout=compact&hide=css&cache_seconds=86400" alt="top languages" />
-  <img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=agnesk92&theme=onedark" alt="streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesk92&show_icons=true&theme=onedark&langs_count=10&layout=compact&hide=css&cache_seconds=86400" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnesk92&theme=onedark" alt="streaks" />
 </div>
